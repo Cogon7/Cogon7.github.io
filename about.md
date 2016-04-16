@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Vo mně
+permalink: /vo mně/
 ---
 
 Čaute, jmenuju se David a jsem strašně namyšlenej! Jsu dvojitej bakalář, tak mám ve všem pravdu.
