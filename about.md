@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Čaute, jmenuju se David a jsem strašně namyšlenej! Jsu dvojitej bakalář, tak mám ve všem pravdu.
+Nejvíce obdivuju mého nejlepšího kamaráda Aniho. Je to můj vzor.
 
-### More Information
+### Víc info o mně
 
-A place to include any other types of information that you'd like to include about yourself.
+Mám rád ženy a pivo!
 
-### Contact me
+### Contact me please chick
 
-[email@domain.com](mailto:email@domain.com)
+[vonerich33@mail.muni.cz](mailto:email@domain.com)
