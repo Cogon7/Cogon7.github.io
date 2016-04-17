@@ -10,7 +10,9 @@ Nejvíce obdivuju mého nejlepšího kamaráda Aniho. Je to můj vzor.
 ### Víc info o mně
 
 Mám rád ženy a pivo!
-+![Alt text](http://www.ohmyindia.com/wp-content/uploads/2015/08/beer.jpg)
+
+
+![Alt text](http://www.ohmyindia.com/wp-content/uploads/2015/08/beer.jpg)
 
 
 ### Contact me please chick!
